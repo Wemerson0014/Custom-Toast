@@ -7,4 +7,8 @@
     <!-- custom_toast -->
     <string name="image_check">Ícone de check</string>
     <string name="text_success">Registro feito com sucesso</string>
+    <string name="text_warning">Sem conexão</string>
+    <string name="text_error">Erro interno do servidor</string>
+    <string name="type_error">Erro de tipo</string>
+
 </resources>
