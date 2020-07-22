@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Custom Toast</string>
+    <string name="button_sucess">Sucesso</string>
+    <string name="button_warning">Alerta</string>
+    <string name="button_error">Erro</string>
+
+    <!-- custom_toast -->
+    <string name="image_check">Ícone de check</string>
+    <string name="text_success">Registro feito com sucesso</string>
 </resources>
